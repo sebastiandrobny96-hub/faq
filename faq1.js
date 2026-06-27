@@ -1,0 +1,19 @@
+const faq=[
+{question:"Ikosztuje budowa domu szkieletowego?",answer:"Koszt budowy zależy od powierzchni budynku, wybranego projektu, standardu wykończenia oraz lokalizacji inwestycji. Każdą wycenę przygotowujemy indywidualnie po zapoznaniu się z oczekiwaniami klienta"},
+{question:"Czy dom szkieletowy nadaje się do całorocznego   zamieszkania?",answer:"Tak. Prawidłowo wykonany i ocieplony dom szkieletowy zapewnia komfort mieszkania przez cały rok, zarówno zimą, jak i latem. Nowoczesne technologie izolacji pozwalają osiągnąć bardzo dobre parametry energetyczne."},
+{question:"Z jakiego drewna wykonywana jest konstrukcja?",answer:"Do budowy wykorzystujemy drewno konstrukcyjne odpowiednio przygotowane do zastosowań budowlanych. Materiał jest dobierany tak, aby zapewnić stabilność, bezpieczeństwo i trwałość konstrukcji."},
+{question:"Jakie etapy obejmuje budowa domu?",answer:"Proces realizacji obejmuje konsultację, przygotowanie wyceny, podpisanie umowy, wykonanie konstrukcji, montaż poszczególnych elementów budynku oraz odbiór gotowej inwestycji."},
+{question:"Czy wykonujecie domy pod klucz?",answer:"Nie. Nasze domy budujemy wykończone, lecz po stronie inwestora jest fundament, instalacje wodno-kanalizacyjne, oraz instalacja elekreyczna."},
+{question:"Na jakim terenie realizujecie inwestycje?",answer:"Budujemy domy na terenie całej Polski, a także realizujemy transport i montaż konstrukcji dla klientów ze Słowacji, oraz Czech."},
+{question:"Czy dom szkieletowy wymaga specjalnej  konserwacji?",answer:"Nie. Przy zastosowaniu odpowiednich materiałów i prawidłowym wykonaniu budynek nie wymaga bardziej skomplikowanej konserwacji niż dom murowany."},
+{question:"Jak długo trwa budowa domu szkieletowego?",answer:"Technologia szkieletowa pozwala znacząco skrócić czas realizacji w porównaniu z budownictwem tradycyjnym. Termin wykonania zależy od wielkości domu, zakresu prac oraz warunków pogodowych."},
+{question:"Czy dom szkieletowy jest trwały?",answer:"Tak. O trwałości domu decyduje jakość materiałów oraz poprawność wykonania. Konstrukcje szkieletowe są od wielu lat stosowane w krajach skandynawskich, Kanadzie i USA, gdzie służą kolejnym pokoleniom mieszkańców."},
+{question:"Czy mogę zbudować dom według własnego  projektu?",answer:"Tak. Realizujemy zarówno projekty indywidualne przygotowane przez architekta, jak i projekty gotowe, które można dostosować do własnych potrzeb."},
+{question:"Czy pomagacie w formalnościach związanych z  budową?",answer:"Tak. Doradzamy klientom w kwestiach formalnych związanych z realizacją inwestycji i pomagamy przygotować się do rozpoczęcia budowy."},
+{question:"Czy dom szkieletowy jest energooszczędny?",answer:"Tak. Dzięki nowoczesnym rozwiązaniom izolacyjnym domy szkieletowe charakteryzują się niskim zapotrzebowaniem na energię potrzebną do ogrzewania budynku."},
+{question:"Czy mogę zobaczyć wcześniejsze realizacje?",answer:"Tak. Zachęcamy do zapoznania się z galerią realizacji oraz do kontaktu w celu uzyskania dodatkowych informacji o wykonanych projektach."},
+{question:"Czy można rozbudować dom szkieletowy w  przyszłości?",answer:"Tak. Technologia szkieletowa umożliwia stosunkowo łatwą rozbudowę lub przebudowę budynku, jeśli w przyszłości pojawi się taka potrzeba."},
+{question:"Jak rozpocząć współpracę z TASBUD?",answer:"Wystarczy skontaktować się z nami telefonicznie lub poprzez formularz kontaktowy. Po wstępnej rozmowie przygotujemy indywidualną ofertę i odpowiemy na wszystkie pytania dotyczące inwestycji."},
+{question:"Ile za m2 powierzchni?",answer:"Ceny za m2 różnią się od specyfikacji domu. Za dom rekreacyjny ceny wahają się od 2000-4500zł/m2, a za dom mieszkalny od 3000-6000zł/m2"},
+
+];
