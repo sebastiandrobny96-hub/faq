@@ -16,5 +16,8 @@ const faq=[
 {question:"Jak rozpocząć współpracę z TASBUD?",answer:"Wystarczy skontaktować się z nami telefonicznie lub poprzez formularz kontaktowy. Po wstępnej rozmowie przygotujemy indywidualną ofertę i odpowiemy na wszystkie pytania dotyczące inwestycji."},
 {question:"Ile za m2 powierzchni?",answer:"Ceny za m2 różnią się od specyfikacji domu. Za dom rekreacyjny ceny wahają się od 2000-4500zł/m2, a za dom mieszkalny od 3000-6000zł/m2"},
 {question:"Ile trwa montaż domu mieszkalnego?",answer:"Montaż domu mieszkalnego trwa około od 2-5 dni."},
+{question:"Czy wykonujecie fundament?",answer:"Nie. Wykonanie fundamentu jest po stronie inwestora"},
+{question:"Ile trwa montaż domu rekreacyjnego?",answer:"Montaż domu rekeacyjnego trwa około 2-3 dni"},
+{question:"Ile trwa montaż domu rekreacyjnego?",answer:"Montaż domu rekeacyjnego trwa około 2-3 dni"},
 {question:"Ile trwa montaż domu rekreacyjnego?",answer:"Montaż domu rekeacyjnego trwa około 2-3 dni"},
 ];
