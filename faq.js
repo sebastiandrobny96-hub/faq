@@ -1,5 +1,5 @@
 const faq=[
-{question:"Ikosztuje budowa domu szkieletowego?",answer:"Koszt budowy zależy od powierzchni budynku, wybranego projektu, standardu wykończenia oraz lokalizacji inwestycji. Każdą wycenę przygotowujemy indywidualnie po zapoznaniu się z oczekiwaniami klienta"},
+{question:"Ile kosztuje budowa domu szkieletowego?",answer:"Koszt budowy zależy od powierzchni budynku, wybranego projektu, standardu wykończenia oraz lokalizacji inwestycji. Każdą wycenę przygotowujemy indywidualnie po zapoznaniu się z oczekiwaniami klienta"},
 {question:"Czy dom szkieletowy nadaje się do całorocznego zamieszkania?",answer:"Tak. Prawidłowo wykonany i ocieplony dom szkieletowy zapewnia komfort mieszkania przez cały rok, zarówno zimą, jak i latem. Nowoczesne technologie izolacji pozwalają osiągnąć bardzo dobre parametry energetyczne."},
 {question:"Z jakiego drewna wykonywana jest konstrukcja?",answer:"Do budowy wykorzystujemy drewno konstrukcyjne odpowiednio przygotowane do zastosowań budowlanych. Materiał jest dobierany tak, aby zapewnić stabilność, bezpieczeństwo i trwałość konstrukcji."},
 {question:"Jakie etapy obejmuje budowa domu?",answer:"Proces realizacji obejmuje konsultację, przygotowanie wyceny, podpisanie umowy, wykonanie konstrukcji, montaż poszczególnych elementów budynku oraz odbiór gotowej inwestycji."},
