@@ -18,6 +18,4 @@ const faq=[
 {question:"Ile trwa montaż domu mieszkalnego?",answer:"Montaż domu mieszkalnego trwa około od 2-5 dni."},
 {question:"Czy wykonujecie fundament?",answer:"Nie. Wykonanie fundamentu jest po stronie inwestora"},
 {question:"Ile trwa montaż domu rekreacyjnego?",answer:"Montaż domu rekeacyjnego trwa około 2-3 dni"},
-{question:"Ile trwa montaż domu rekreacyjnego?",answer:"Montaż domu rekeacyjnego trwa około 2-3 dni"},
-{question:"Ile trwa montaż domu rekreacyjnego?",answer:"Montaż domu rekeacyjnego trwa około 2-3 dni"},
 ];
